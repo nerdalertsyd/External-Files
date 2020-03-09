@@ -1,0 +1,1 @@
+Name,Shooky,Type,Cookie,Level,28,HP,60
